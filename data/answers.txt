@@ -1,0 +1,80 @@
+QUESTION: Can you name a film from 2015 with an ensemble cast, including a well-known actor named Tom Hardy?
+TRUE ANSWER: the revenant
+PREDICTIONS: entourage,exodus gods and kings,legend,brian helgeland,paul,paul anderson,warrior
+
+QUESTION: Which 2014 movie starred an actor who later portrayed a famous comic book character in "Deadpool"?
+TRUE ANSWER: deadpool
+PREDICTIONS: deadpool,jamie chung,her,diego luna,the giver,the amazing spiderman,phillip noyce
+
+QUESTION: In which year did a thriller film release, featuring actors Jake Gyllenhaal and Rene Russo, with a title related to the world of art?
+TRUE ANSWER: nightcrawler
+PREDICTIONS: martin scorsese,ti,denis villeneuve,prisoners,nightcrawler,edge of tomorrow,emily blunt
+
+QUESTION: Name a movie from 2016 in which a popular actress played a leading role alongside actor Michael Keaton, focusing on a real-life investigative story.
+TRUE ANSWER: spotlight
+PREDICTIONS: spotlight,moonlight,moon,her,diego luna,ariel vromen,josé padilha
+
+QUESTION: Can you identify a 2016 release that had a cast featuring Will Smith, Margot Robbie, and Jared Leto, based on a famous comic book series?
+TRUE ANSWER: suicide squad
+PREDICTIONS: suicide squad,the wolf of wall street,sean bott,moneyball,glenn ficarra,adrian martinez,ti
+
+QUESTION: Which 2016 film starred an actress who previously played a significant role in the "La La Land" musical?
+TRUE ANSWER: lalaland
+PREDICTIONS: whiplash,patriots day,paul,it,rio,rosemarie dewitt,melissa benoist
+
+QUESTION: In which year was a science fiction movie released, starring Matt Damon and Jodie Foster, set in a futuristic, dystopian world?
+TRUE ANSWER: elysium
+PREDICTIONS: spike lee,elysium,money monster,jodie foster,escape plan,inside man,dominic west
+
+QUESTION: Name a 2015 movie that involved Chris Pratt and Bryce Dallas Howard dealing with genetically-engineered dinosaurs.
+TRUE ANSWER: jurassic world
+PREDICTIONS: jurassic world,passengers,petes dragon,pet,david lowery
+
+QUESTION: Can you mention a 2016 release in which Emily Blunt played a significant role and the plot revolved around a psychological thriller based on a popular novel?
+TRUE ANSWER: the girl on the train
+PREDICTIONS: rob marshall,moonrise kingdom,moon,her,the huntsman winters war,cedric nicolastroyan,up
+
+QUESTION: Which 2014 movie featured a talented actor who later starred in "The Revenant" and earned an Academy Award for his performance?
+TRUE ANSWER: tom hardy
+PREDICTIONS: emily browning,brian helgeland,warrior,black mass,paul,rio,taron egerton
+
+QUESTION: In which year did an action-packed film come out, with Tom Hardy and Charlize Theron, set in a post-apocalyptic desert wasteland?
+TRUE ANSWER: mad max: fury road
+PREDICTIONS: snow white and the huntsman,it,viggo mortensen,robert duvall,allied,jason omara,her
+
+QUESTION: Name a 2016 movie that saw Ryan Reynolds taking on the role of a wisecracking antihero, known for breaking the fourth wall.
+TRUE ANSWER: the martian
+PREDICTIONS: deadpool,her,diego luna,wes ball,gold,xmen origins wolverine,gavin hood
+
+QUESTION: Can you identify a 2016 release in which Amy Adams played a lead role and the narrative involved a story within a story, blurring the lines of reality?
+TRUE ANSWER: nocturnal animals
+PREDICTIONS: ted,a united kingdom,it,aaron yoo,francesc albiol,the danish girl,cloud atlas
+
+QUESTION: Which 2015 film had Shailene Woodley and Theo James as the lead actors, in a dystopian world filled with factions?
+TRUE ANSWER: divergent
+PREDICTIONS: divergent,neil burger,allegiant,insurgent,the maze runner,theo james,shailene woodley
+
+QUESTION: In which year did a biographical drama release, starring Michael Fassbender as a tech visionary, and focusing on his life and work?
+TRUE ANSWER: steve jobs
+PREDICTIONS: up,rupert grint,michael gambon,david yates,harry potter and the deathly hallows part 2,stardust,harry potter and the halfblood prince
+
+QUESTION: Name a movie from 2016 in which a well-known actor portrayed a talented illusionist, and the story involved mind-bending tricks and deceptions.
+TRUE ANSWER: now you see me 2
+PREDICTIONS: up,rupert grint,michael gambon,harry potter and the halfblood prince,david yates
+
+QUESTION: Can you mention a 2014 release that featured Chris Pratt and Zoe Saldana as part of a team of unlikely heroes in a space opera?
+TRUE ANSWER: guardians of the galaxy
+PREDICTIONS: guardians of the galaxy,star trek beyond,star trek,star trek into darkness,zoe saldana,zachary quinto,justin lin
+
+QUESTION: Which 2016 film starred an actor who is famous for playing a superhero with a suit that grants incredible abilities?
+TRUE ANSWER: iron man
+PREDICTIONS: moonlight,moon,snowpiercer,william hurt,up,super,scott speedman
+
+QUESTION: In which year did a science fiction thriller come out, featuring Domhnall Gleeson and Alicia Vikander, with themes of artificial intelligence and consciousness?
+TRUE ANSWER: ex machina
+PREDICTIONS: jeff bridges,seventh son,eve,gods of egypt,jason bourne,paul greengrass,the martian
+
+QUESTION: Name a 2016 movie in which Mark Ruffalo, Rachel McAdams, and Michael Keaton portrayed journalists investigating a real-life scandal
+TRUE ANSWER: spotlight
+PREDICTIONS: spotlight,her,sherlock holmes,real steel,dakota goyo,john carroll lynch,midnight in paris
+
