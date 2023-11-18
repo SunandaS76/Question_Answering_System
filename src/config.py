@@ -3,6 +3,7 @@ KG_Graph_File = '../models/graph.pkl'
 KG_Embeddings_File = '../models/embeddings.pkl'
 
 ## LM Config : To finetune it use the LM Finetuning notebook from notebook folder
+#Finetuned_LM_Path = 'deepset/roberta-base-squad2'
 Finetuned_LM_Path = 'DKud7/finetuned-roberta-squad2'
 
 

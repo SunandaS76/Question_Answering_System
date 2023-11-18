@@ -22,15 +22,19 @@ with open(test_file, 'r') as file:
 
 # Begin inference
 pipe = get_qa_pipeline(KG_Graph_File, KG_Embeddings_File, Finetuned_LM_Path)
-topk = 7
+topk = 9
 
 # Write answers in file
 g = open(answers_file, 'w+')
 N = len(questions)
+acc = 0
 for i in range(N):
     g.write('QUESTION: ' + questions[i] + '\n')
     g.write('TRUE ANSWER: ' + true_answers[i] + '\n')
     preds = get_answer_from_question(pipe, questions[i], topk)
     g.write('PREDICTIONS: ' + ','.join(preds) + '\n\n')
+    if true_answers[i].lower() in preds:
+        acc = acc + 1
 
+print('ACCURACY: ' + str(acc * 100/N) + '%\n')
 g.close()
