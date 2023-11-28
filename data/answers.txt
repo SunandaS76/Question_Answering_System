@@ -1,30 +1,30 @@
 QUESTION: Can you name a film from 2015 with an ensemble cast, including a well-known actor named Tom Hardy?
 TRUE ANSWER: the revenant
-PREDICTIONS: miss sloane,the dark knight,exodus gods and kings,legend,the revenant,alejandro gonzález iñárritu,selfless,it,tom hardy
+PREDICTIONS: entourage,exodus gods and kings,legend,the revenant,alejandro gonzález iñárritu,selfless,it,tom hardy,will poulter
 
 QUESTION: Which 2014 movie starred an actor who later portrayed a famous comic book character in "Deadpool"?
 TRUE ANSWER: deadpool
-PREDICTIONS: deadpool,jamie chung,her,diego luna,the giver,the amazing spiderman,phillip noyce,it,the loft
+PREDICTIONS: tron,deadpool,jamie chung,tim miller,scot armstrong,morena baccarin,tj miller,ed skrein,ti
 
 QUESTION: In which year did a thriller film release, featuring actors Jake Gyllenhaal and Rene Russo, with a title related to the world of art?
 TRUE ANSWER: nightcrawler
-PREDICTIONS: martin scorsese,ti,antoine fuqua,the sea of trees,denis villeneuve,prisoners,nightcrawler,the intern,nancy meyers
+PREDICTIONS: her,inherent vice,martin scorsese,ti,denis villeneuve,prisoners,nightcrawler,edge of tomorrow,the intern
 
 QUESTION: Name a movie from 2016 in which a popular actress played a leading role alongside actor Michael Keaton, focusing on a real-life investigative story.
 TRUE ANSWER: spotlight
-PREDICTIONS: spotlight,her,diego luna,ariel vromen,josé padilha,the lego movie,21 jump street,phil lord,22 jump street
+PREDICTIONS: spotlight,moonlight,moon,her,diego luna,minions,kyle balda,pierre coffin,jon hamm
 
 QUESTION: Can you identify a 2016 release that had a cast featuring Will Smith, Margot Robbie, and Jared Leto, based on a famous comic book series?
 TRUE ANSWER: suicide squad
-PREDICTIONS: suicide squad,the wolf of wall street,sean bott,moneyball,glenn ficarra,whiskey tango foxtrot,adrian martinez,ti,argo
+PREDICTIONS: suicide squad,the wolf of wall street,sean bott,moneyball,glenn ficarra,whiskey tango foxtrot,allied,argo,andrew dominik
 
 QUESTION: Which 2016 film starred an actress who previously played a significant role in the "La La Land" musical?
 TRUE ANSWER: lalaland
-PREDICTIONS: whiplash,la la land,damien chazelle,elle,it,emma stone,rosemarie dewitt,jk simmons,aidan gillen
+PREDICTIONS: whiplash,joe blakemore,la la land,damien chazelle,elle,it,emma stone,rosemarie dewitt,jk simmons
 
 QUESTION: In which year was a science fiction movie released, starring Matt Damon and Jodie Foster, set in a futuristic, dystopian world?
 TRUE ANSWER: elysium
-PREDICTIONS: disaster movie,jason friedberg,carmen electra,vanessa lachey,nicole parker,district 9,neill blomkamp,chappie,elysium
+PREDICTIONS: arnold schwarzenegger,50 cent,war,dominic west,spike lee,elysium,money monster,jodie foster,escape plan
 
 QUESTION: Name a 2015 movie that involved Chris Pratt and Bryce Dallas Howard dealing with genetically-engineered dinosaurs.
 TRUE ANSWER: jurassic world
@@ -36,15 +36,15 @@ PREDICTIONS: rob marshall,moonrise kingdom,moon,her,the huntsman winters war,ced
 
 QUESTION: Which 2014 movie featured a talented actor who later starred in "The Revenant" and earned an Academy Award for his performance?
 TRUE ANSWER: tom hardy
-PREDICTIONS: brian helgeland,warrior,black mass,paul,rio,taron egerton,tom hardy,paul anderson,jennifer morrison
+PREDICTIONS: emily browning,brian helgeland,warrior,black mass,paul,rio,taron egerton,tom hardy,paul anderson
 
 QUESTION: In which year did an action-packed film come out, with Tom Hardy and Charlize Theron, set in a post-apocalyptic desert wasteland?
 TRUE ANSWER: mad max: fury road
-PREDICTIONS: spy,the drop,tinker tailor soldier spy,tomas alfredson,red,ti,james gandolfini,snow white and the huntsman,it
+PREDICTIONS: 300,albert finney,spy,the drop,tinker tailor soldier spy,tomas alfredson,red,ti,james gandolfini
 
 QUESTION: Name a 2016 movie that saw Ryan Reynolds taking on the role of a wisecracking antihero, known for breaking the fourth wall.
 TRUE ANSWER: the martian
-PREDICTIONS: her,diego luna,wes ball,gold,xmen origins wolverine,gavin hood,the wolverine,james mangold,district 9
+PREDICTIONS: deadpool,asghar farhadi,her,diego luna,wes ball,gold,xmen origins wolverine,gavin hood,the wolverine
 
 QUESTION: Can you identify a 2016 release in which Amy Adams played a lead role and the narrative involved a story within a story, blurring the lines of reality?
 TRUE ANSWER: nocturnal animals
@@ -56,23 +56,23 @@ PREDICTIONS: divergent,neil burger,allegiant,insurgent,the maze runner,theo jame
 
 QUESTION: In which year did a biographical drama release, starring Michael Fassbender as a tech visionary, and focusing on his life and work?
 TRUE ANSWER: steve jobs
-PREDICTIONS: exodus gods and kings,albert finney,up,rupert grint,michael gambon,david yates,harry potter and the deathly hallows part 2,stardust,harry potter and the halfblood prince
+PREDICTIONS: exodus gods and kings,up,rupert grint,michael gambon,david yates,harry potter and the deathly hallows part 2,stardust,harry potter and the halfblood prince,harry potter and the deathly hallows part 1
 
 QUESTION: Name a movie from 2016 in which a well-known actor portrayed a talented illusionist, and the story involved mind-bending tricks and deceptions.
 TRUE ANSWER: now you see me 2
-PREDICTIONS: up,rupert grint,michael gambon,ron clements,movie 43,half of a yellow sun,biyi bandele,it,the princess and the frog
+PREDICTIONS: paul,paul giamatti,ti,up,rupert grint,michael gambon,harry potter and the halfblood prince,david yates,emma watson
 
 QUESTION: Can you mention a 2014 release that featured Chris Pratt and Zoe Saldana as part of a team of unlikely heroes in a space opera?
 TRUE ANSWER: guardians of the galaxy
-PREDICTIONS: guardians of the galaxy,star trek beyond,star trek,star trek into darkness,zoe saldana,zachary quinto,harry potter and the order of the phoenix,justin lin,ti
+PREDICTIONS: guardians of the galaxy,star trek beyond,star trek,star trek into darkness,zoe saldana,zachary quinto,bill nighy,michael gambon,justin lin
 
 QUESTION: Which 2016 film starred an actor who is famous for playing a superhero with a suit that grants incredible abilities?
 TRUE ANSWER: iron man
-PREDICTIONS: moonlight,moon,up,super,scott speedman,mothers day,garry marshall,her,jennifer aniston
+PREDICTIONS: moonlight,moon,snowpiercer,william hurt,up,super,scott speedman,lion,macbeth
 
 QUESTION: In which year did a science fiction thriller come out, featuring Domhnall Gleeson and Alicia Vikander, with themes of artificial intelligence and consciousness?
 TRUE ANSWER: ex machina
-PREDICTIONS: jeff bridges,seventh son,eve,gods of egypt,twilight,interstellar,richard curtis,kurt fuller,lydia wilson
+PREDICTIONS: jeff bridges,seventh son,eve,gods of egypt,jason bourne,paul greengrass,the martian,dennis gansel,paul
 
 QUESTION: Name a 2016 movie in which Mark Ruffalo, Rachel McAdams, and Michael Keaton portrayed journalists investigating a real-life scandal
 TRUE ANSWER: spotlight

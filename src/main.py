@@ -1,5 +1,5 @@
 import pickle
-from haystack.nodes import BM25Retriever
+from haystack.nodes import TfidfRetriever
 from haystack.document_stores.memory import InMemoryDocumentStore
 from haystack.nodes import FARMReader
 from haystack.pipelines import ExtractiveQAPipeline
@@ -65,10 +65,10 @@ def get_qa_pipeline(KG_Graph_File, KG_Embeddings_File, Finetuned_LM_Path):
         doc['content'] = get_content_from_embeddings(graph, node, embeddings)
         custom_documents.append(doc)
     # Step 2: Create an InMemoryDocumentStore and add your custom documents
-    document_store = InMemoryDocumentStore(use_bm25=True)
+    document_store = InMemoryDocumentStore()
     document_store.write_documents(custom_documents, )
     # Step 3: Create a custom retriever
-    retriever = BM25Retriever(document_store = document_store)
+    retriever = TfidfRetriever(document_store = document_store)
     # Use finetuned LM instead of pretrained one
     reader = FARMReader(model_name_or_path = Finetuned_LM_Path, use_gpu = True)
     # Merge KG Retriever and LM to create pipeline
