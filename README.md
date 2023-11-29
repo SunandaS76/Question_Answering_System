@@ -34,15 +34,15 @@ python src/test.py
 
 |-------------------------------------------------------|
 
-|     Model                             |   Accuracy    |
+|     Model                                 |   Accuracy    |
 
 |-------------------------------------------------------|
 
-| Closest embedding + Finetuned LM      |      35%      |
+| Closest embedding + Finetuned LM          |      35%      |
 
 |-------------------------------------------------------|
 
-| TFIDF Retriever   + Finetuned LM      |      55%      |
+| TFIDF Retriever   + Finetuned LM          |      55%      |
 
 |-------------------------------------------------------|
 
